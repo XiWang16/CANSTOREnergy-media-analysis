@@ -39,3 +39,4 @@ Thumbs.db
 # Virtual Environment #
 ######################
 /venv-media-analysis
+*.pdf
